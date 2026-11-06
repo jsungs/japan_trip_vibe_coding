@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-labelledby="title desc">
+<title id="title">Map of Japan, Hokkaido highlighted</title><desc id="desc">A simple illustrative map of the Japanese islands. Hokkaido is highlighted in orange.</desc>
+<defs><pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#cdd5ca"/></pattern></defs>
+<rect width="640" height="760" fill="url(#dots)" opacity=".36"/>
+<g fill="#d8dfd4" stroke="#9eafa3" stroke-width="2" stroke-linejoin="round">
+<!-- Honshu -->
+<path d="M443 310l-20 11-17 18-20 8-16 17-9 20-18 8-18 20-18 12-13 23-20 12-11 20-21 7-12 22-17 9-5 23-17 13-5 28-17 12-2 28 13 17 19-5 12-18 17-9 10-17 21-8 18-17 20-7 14-19 24-4 16-17 24-7 17-16 22-5 17-16 22-7 16-18 18-6 12-18 20-7 9-20 22-10 7-19 20-13 1-18-11-11-19 5z"/>
+<!-- Shikoku -->
+<path d="M302 488l-16 2-12 10-17 2-11 11 3 12 17 4 14-8 18 1 13-10-2-13z"/>
+<!-- Kyushu -->
+<path d="M246 492l-15 8-8 20-14 11-8 21 6 17-9 18 6 19 16 8 13-8 5-17 15-13 6-17 14-14-3-19 8-15-12-13z"/>
+<!-- Hokkaido -->
+</g><path d="M424 124l-20-12-21 5-8 17-18 4-11 16 7 18-13 15 7 17 22-4 14-13 19-4 12-16 20-5 9-18-8-17z" fill="#dc704d" stroke="#b84c32" stroke-width="3" stroke-linejoin="round"/>
+<!-- islands -->
+<g fill="#d8dfd4" stroke="#9eafa3" stroke-width="1.5"><path d="M174 643l-7 9 7 7 8-7z"/><path d="M158 674l-5 8 6 5 7-7z"/><path d="M145 702l-4 6 5 4 5-6z"/><ellipse cx="487" cy="245" rx="4" ry="8" transform="rotate(23 487 245)"/><ellipse cx="499" cy="221" rx="3" ry="6" transform="rotate(23 499 221)"/></g>
+<!-- route and labels -->
+<path d="M400 210C370 279 360 330 322 408" fill="none" stroke="#dc704d" stroke-width="2" stroke-dasharray="5 7"/>
+<circle cx="400" cy="210" r="6" fill="#fff" stroke="#b84c32" stroke-width="3"/><circle cx="322" cy="408" r="6" fill="#fff" stroke="#b84c32" stroke-width="3"/>
+<text x="447" y="128" fill="#a24530" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">HOKKAIDO</text><text x="413" y="160" fill="#75857a" font-family="Arial,sans-serif" font-size="12">北海道</text><text x="418" y="215" fill="#355d4b" font-family="Arial,sans-serif" font-size="12">SAPPORO</text><text x="335" y="424" fill="#75857a" font-family="Arial,sans-serif" font-size="12">TOKYO</text><text x="380" y="655" fill="#9aa69c" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">JAPAN</text>
+<g transform="translate(84 92)"><path d="M12 0L22 26l-10-5L2 26z" fill="#3b6653"/><text x="12" y="43" text-anchor="middle" fill="#65796d" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">N</text></g>
+</svg>
